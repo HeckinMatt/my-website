@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Matthew Gergus</title>
-    <link>matthewgergus/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content in Home on Matthew Gergus</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="matthewgergus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>matthewgergus/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>matthewgergus/about/</guid>
+      <guid>//localhost:1313/about/</guid>
       <description>about</description>
     </item>
     <item>
       <title>Competitions</title>
-      <link>matthewgergus/competitions/</link>
+      <link>//localhost:1313/competitions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>matthewgergus/competitions/</guid>
+      <guid>//localhost:1313/competitions/</guid>
       <description>competitions</description>
     </item>
     <item>
       <title>Projects</title>
-      <link>matthewgergus/projects/</link>
+      <link>//localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>matthewgergus/projects/</guid>
+      <guid>//localhost:1313/projects/</guid>
       <description>projects</description>
     </item>
   </channel>
