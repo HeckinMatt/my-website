@@ -1,0 +1,40 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Matthew Gergus"
+theme = "hello-friend-ng"
+
+
+[params]
+
+    [[params.social]]
+        name = "linkedin"
+        url = "https://www.linkedin.com/in/matthewgergus/"
+    [[params.social]]
+        name = "github"
+        url = "https://github.com/HeckinMatt"
+
+   customCSS = ["css/theme-vars-override.css"]
+
+
+
+ 
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+url = "/projects/"
+weight = 20
+
+[[menu.main]]
+identifier = "competitions"
+name = "Competitions"
+url = "/competitions/"
+weight = 30
+
+
+

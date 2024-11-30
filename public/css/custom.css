@@ -1,0 +1,8 @@
+body {
+    background-image: url(/static/back1.jpg);
+    background-size: cover; /* Ensures the GIF covers the whole screen */
+    background-position: center; /* Centers the GIF */
+    background-attachment: fixed; /* Keeps the background fixed during scrolling */
+    margin: 0;
+    height: 100vh; /* Ensure the body takes the full viewport height */
+}
