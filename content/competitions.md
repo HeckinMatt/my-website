@@ -1,6 +1,5 @@
 ---
 title: "Competitions"
-layout: "competitions"
 url: "/competitions/"
 summary: competitions
 ---

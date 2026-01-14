@@ -5,15 +5,24 @@ theme = "hello-friend-ng"
 
 
 [params]
+  customCSS = ["css/theme-vars-override.css"]
 
-    [[params.social]]
-        name = "linkedin"
-        url = "https://www.linkedin.com/in/matthewgergus/"
-    [[params.social]]
-        name = "github"
-        url = "https://github.com/HeckinMatt"
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/matthewgergus/"
 
-   customCSS = ["css/theme-vars-override.css"]
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/HeckinMatt"
+
+[params.footer]
+  trademark = false
+  rss = false
+  author = false
+  copyright = "© {{ now.Year }} Matthew Gergus"
+  topText = []
+
+   
 
 
 
@@ -34,6 +43,12 @@ weight = 20
 identifier = "competitions"
 name = "Competitions"
 url = "/competitions/"
+weight = 30
+
+[[menu.main]]
+identifier = "certifications"
+name = "Certifications"
+url = "/certifications/"
 weight = 30
 
 

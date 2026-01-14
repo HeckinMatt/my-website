@@ -6,6 +6,8 @@
   </url><url>
     <loc>//localhost:1313/categories/</loc>
   </url><url>
+    <loc>//localhost:1313/certifications/</loc>
+  </url><url>
     <loc>//localhost:1313/competitions/</loc>
   </url><url>
     <loc>//localhost:1313/</loc>
